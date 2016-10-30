@@ -1,0 +1,34 @@
+{
+  "name": "slack-canal-directo",
+  "version": "1.0.0",
+  "description": "El robot que utilizamos en Open Source Weekends para automatizar los comunicados en el canal #directo de Slack durante los eventos",
+  "main": "directo.js",
+  "scripts": {
+    "start": "node directo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSWeekends/Slack-Canal-Directo.git"
+  },
+  "keywords": [
+    "osw",
+    "open",
+    "source",
+    "weekends",
+    "slack",
+    "twitter",
+    "hangouts"
+  ],
+  "author": "Ulises Gascón",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/OSWeekends/Slack-Canal-Directo/issues"
+  },
+  "homepage": "https://github.com/OSWeekends/Slack-Canal-Directo#readme",
+  "dependencies": {
+    "hangouts-bot": "0.2.1",
+    "scheduled": "0.4.5",
+    "slack-node": "0.1.8",
+    "twitter": "1.4.0"
+  }
+}

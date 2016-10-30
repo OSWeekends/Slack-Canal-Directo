@@ -5,7 +5,7 @@
 
 
 # Slack-Canal-Directo
-El robot que utilizamos para automatizar los comunicados en el canal [#directo]() de Slack.
+El robot que utilizamos para automatizar los comunicados en el canal [#directo](https://osweekends.slack.com/) de Slack.
 
 
 ### Funcionalidades
